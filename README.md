@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Medina-Mánuel</h1>
-<h3 align="center">A hydrodynamics junior researcher from Spain</h3>
+<h3 align="center">A hydrodynamics junior researcher and PhD Candidate from UPM in Spain</h3>
 
-- 🔭 I’m currently working on **added masses and hydrodynamic damping of heave plates**
+- 🔭 I’m currently working on **PINN** to predict FOWTs dynamics using sythetic data from OpenFAST and experimental validations. I also work on the field of **added masses and hydrodynamic damping of heave plates**. 
 
 - 📫 How to reach me **antonio.medina.manuel@upm.es**
 
